@@ -1,2 +1,1 @@
-# Clashfreetimetable
-Time table for school/colleges or universities for clash free arrangement of classes
+Time table application for schools and universities to use for no-overlap schedules
